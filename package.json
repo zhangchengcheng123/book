@@ -1,19 +1,19 @@
 {
-  "name": "mybook",
+  "name": "book",
   "version": "1.0.0",
-  "description": "制作电子书",
+  "description": "\"制作电子书\"",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhangchengcheng123/mybook.git"
+    "url": "git+https://github.com/zhangchengcheng123/book.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zhangchengcheng123/mybook/issues"
+    "url": "https://github.com/zhangchengcheng123/book/issues"
   },
-  "homepage": "https://github.com/zhangchengcheng123/mybook#readme"
+  "homepage": "https://github.com/zhangchengcheng123/book#readme"
 }
